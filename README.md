@@ -1,2 +1,4 @@
 # Sales-Dashboard
-I have created a sales dashboard using Power BI, which provides valuable insights into company's sales performance
+I have created a sales dashboard using Power BI to analyze company's sales performance and identify areas for improvement. The dashboard provides valuable insights into key metrics such as the sum of amount, total profit, sum of quantity, profit by month, and profit by sub-category. By visualizing this data in various charts and graphs, we can quickly identify trends and patterns in the sales data.
+
+The dashboard is organized by quarter, state, and sub-category, so we can easily filter and drill down into specific areas of interest. For example, we can see how the sales performance varies by region, which sub-categories are driving the most revenue, and how the sales have changed over time. This allows us to make data-driven decisions and adjust our sales strategy accordingly.
